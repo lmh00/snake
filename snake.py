@@ -1,6 +1,5 @@
 # Snake Tutorial Python
 
-#test comment
 import math
 import random
 import pygame
